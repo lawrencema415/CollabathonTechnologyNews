@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+img {
+    width: 30vw;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.blog-footer {
+    text-align: center;
+}
