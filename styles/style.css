@@ -54,10 +54,6 @@ hr {
   font-size: 1rem;
 }
 
-.pb-3, .py-3 {
-  padding-bottom: .5rem;
-}
-
 .article-info h1{
   color: #151414;
   font-size: 24px;
@@ -69,4 +65,15 @@ hr {
   margin-top: 5px;
   margin-bottom: 5px;
   text-align: center;
+}
+
+#jumbo{
+  background-color: white;
+  padding: 0;
+  margin: 0;
+}
+
+#jumbo-img{
+  opacity: .5;
+  margin: 0;
 }
