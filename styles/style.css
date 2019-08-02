@@ -57,3 +57,16 @@ hr {
 .pb-3, .py-3 {
   padding-bottom: .5rem;
 }
+
+.article-info h1{
+  color: #151414;
+  font-size: 24px;
+}
+
+.article-info img {
+  width: 340px;
+  height: 170px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
