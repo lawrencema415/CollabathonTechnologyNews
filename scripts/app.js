@@ -1,8 +1,23 @@
-console.log("hello");
 $('#mce-EMAIL').keydown( (e)=> {
-    console.log("changing");
-      // mce-FNAME
-      // mce-LNAME
-      $fname = $('#mce_FNAME');
-      console.log($fname.val);
+    if($("#mce-FNAME").val() != "" && $('#mce-LNAME').val() != "" && $('#mce-EMAIL').val() != "" ) {
+      $("#mc-embedded-subscribe").attr("disabled",false);
+    } else {
+      $("#mc-embedded-subscribe").attr("disabled",true);
+    }
+})
+
+$('#mce-LNAME').keydown( (e)=> {
+    if($("#mce-FNAME").val() != "" && $('#mce-LNAME').val() != "" && $('#mce-EMAIL').val() != "" ) {
+      $("#mc-embedded-subscribe").attr("disabled",false);
+    } else {
+      $("#mc-embedded-subscribe").attr("disabled",true);
+    }
+})
+
+$('#mce-FNAME').keydown( (e)=> {
+    if($("#mce-FNAME").val() != "" && $('#mce-LNAME').val() != "" && $('#mce-EMAIL').val() != "" ) {
+      $("#mc-embedded-subscribe").attr("disabled",false);
+    } else {
+      $("#mc-embedded-subscribe").attr("disabled",true);
+    }
 })
