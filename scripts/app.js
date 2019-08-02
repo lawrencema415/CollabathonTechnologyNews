@@ -9,7 +9,7 @@ $('#exampleModal').on('shown.bs.modal', function() {
 
 $('#mce-EMAIL').keydown( (e)=> {
     if($("#mce-FNAME").val() != "" && $('#mce-LNAME').val() != "" && $('#mce-EMAIL').val() != "" ) {
-      if(validateEmail($('#mce-EMAIL').val()) == true) {
+      if(validateEmail($('#mce-EMAIL').val()) == true && $('#mce-LNAME').val().length < 2 && $('#mce-FNAME').val().length < 2) {
         console.log("validates");
         $("#mc-embedded-subscribe").attr("disabled",false);
       }
