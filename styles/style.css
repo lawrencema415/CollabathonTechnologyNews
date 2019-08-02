@@ -12,3 +12,50 @@ img {
 .blog-footer {
     text-align: center;
 }
+
+#exampleModalLabel {
+  color: #4A4949;
+  font-weight: bold;
+  font-size: 32px;
+  font-family: 'Lato', sans-serif;
+}
+.mc-field-group {
+  color: #151414;
+  text-align: left;
+
+}
+
+.modalBodyText {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.disclaimer {
+  font-size: 16px;
+  color: #151414;
+  text-align: left;
+}
+
+input {
+  background-color: #FFFFFF;
+  border-color: #6D757C;
+  margin-bottom: 20px;
+}
+label {
+  margin-bottom: 0.5px;
+}
+input, label {
+  display: block;
+  text-align: left;
+}
+
+#mc-embedded-subscribe, #closeButton {
+  background-color: #A9A9A9;
+  border: none;
+  color: #FFFFFF;
+  font-family: 'Lato', sans-serif;
+  text-align: right;
+  display: inline-block;
+  margin-right: 10px;
+}
