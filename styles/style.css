@@ -22,7 +22,6 @@ img {
   padding-top: 50px;
   padding-right: 16px;
   margin: 0;
-​
 }
 ​
 #articleOne {
@@ -35,4 +34,26 @@ img {
 ​
 .float-right {
   float: right;
+}
+
+#logo-text {
+  font-family: 'Lato', sans-serif;
+  font-size: 2.25rem;
+  color: #09A4d6;
+}
+
+hr {
+  margin: 0;
+  border-color: #6D757C;
+  text-align: center;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  color: #09A4d6;
+  font-size: 1rem;
+}
+
+.pb-3, .py-3 {
+  padding-bottom: .5rem;
 }
