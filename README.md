@@ -3,7 +3,7 @@
 > This web application was built in two days for the collabathon project in General Assembly.
 
 ## Project overview 
-> The assignment is to create a way for users to sign up to receive your client’s newsletter via email.The user profile, constraints, and user stories are based on extensive research.
+> The objective of this assignment is to create a way for users to sign up to receive your client’s newsletter via email. The user profile, constraints, and user stories are based on extensive research.
 
 ## User profile
 * Frequent visitor to client’s mobile site
