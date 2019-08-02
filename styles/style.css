@@ -3,6 +3,10 @@
     /* border: 1px solid red; */
 }
 
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
 img {
     width: 30vw;
     height: 40vh;
@@ -91,8 +95,9 @@ hr {
 
 #jumbo-txt {
   color: black;
-  background-color: rgb(255, 255, 255, .75);
+  background-color: rgb(255, 255, 255, .9);
   padding: 2rem, 1.5rem 1.6rem, 2rem;
+  border-radius: 10px;
 }
 
 
