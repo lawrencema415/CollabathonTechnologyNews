@@ -57,12 +57,14 @@ input, label {
   display: inline-block;
   margin-right: 15px;
   font-family: 'Lato', sans-serif;
+  text-decoration: underline;
 }
 
 #mc-embedded-subscribe {
-  background-color: #A9A9A9;
+  background-color: #09A4D6;
   border: none;
   color: #FFFFFF;
+  font-size: 20px;
   font-family: 'Lato', sans-serif;
   text-align: center;
   display: inline-block;
