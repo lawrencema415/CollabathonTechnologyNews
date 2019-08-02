@@ -9,8 +9,9 @@ img {
     object-fit: cover;
 }
 
-.blog-footer {
+.blog-footer a{
     text-align: center;
+    color: black;
 }
 
 /* ARTICLES */
@@ -38,8 +39,8 @@ img {
 
 #logo-text {
   font-family: 'Lato', sans-serif;
-  font-size: 2.25rem;
   color: #09A4d6;
+  font-size: 1.5rem;
 }
 
 hr {
@@ -85,9 +86,15 @@ hr {
 }
 
 #jumbo-img{
-  opacity: .5;
   margin: 0;
 }
+
+#jumbo-txt {
+  color: black;
+  background-color: rgb(255, 255, 255, .8);
+  padding: 2rem, 1.5rem 1.6rem, 2rem;
+}
+
 
 .article-info p {
   font-family: 'Montserrat', sans-serif;
