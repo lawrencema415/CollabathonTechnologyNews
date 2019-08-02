@@ -50,16 +50,24 @@ input, label {
   text-align: left;
 }
 
-#mc-embedded-subscribe, #closeButton {
+#closeButton {
+  border: none;
+  color: #09A4D6;
+  text-align: right;
+  display: inline-block;
+  margin-right: 15px;
+  font-family: 'Lato', sans-serif;
+}
+
+#mc-embedded-subscribe {
   background-color: #A9A9A9;
   border: none;
   color: #FFFFFF;
   font-family: 'Lato', sans-serif;
-  text-align: right;
+  text-align: center;
   display: inline-block;
-  margin-right: 10px;
+  text-align: right;  
 }
-
 
 h3 {
   font-size: 1.25rem;
