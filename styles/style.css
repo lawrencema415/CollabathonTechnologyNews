@@ -64,8 +64,8 @@ hr {
 }
 
 .article-info img {
-  width: 340px;
-  height: 170px;
+  width: 100%;
+  height: auto;
   margin-top: 5px;
   margin-bottom: 5px;
   text-align: center;
