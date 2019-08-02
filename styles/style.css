@@ -62,9 +62,19 @@ hr {
 .article-info img {
   width: 100%;
   height: auto;
-  margin-top: 5px;
-  margin-bottom: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
+}
+
+.article-info #author {
+  color: #151414;
+  font-size: 16px;
+}
+
+.article-info #timing {
+  color: #151414;
+  font-size: 13px;
 }
 
 #jumbo{
@@ -76,4 +86,10 @@ hr {
 #jumbo-img{
   opacity: .5;
   margin: 0;
+}
+
+.article-info p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #151414;
 }
