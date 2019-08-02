@@ -57,6 +57,7 @@ hr {
 .article-info h1{
   color: #151414;
   font-size: 24px;
+  text-align: center;
 }
 
 .article-info img {
@@ -90,6 +91,6 @@ hr {
 
 .article-info p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   color: #151414;
 }
