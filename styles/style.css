@@ -60,30 +60,6 @@ input, label {
   margin-right: 10px;
 }
 
-#closeButton {
-  clear: both;
-    background-color: rgb(170, 170, 170);
-    color: rgb(255, 255, 255);
-    cursor: pointer;
-    display: inline-block;
-    font-size: 15px;
-    font-weight: normal;
-    height: 32px;
-    line-height: 32px;
-    text-align: center;
-    vertical-align: top;
-    white-space: nowrap;
-    width: auto;
-    border-width: 0px;
-    border-style: none;
-    border-color: initial;
-    border-image: initial;
-    border-radius: 4px;
-    transition: all 0.23s ease-in-out 0s;
-    margin: 0px 5px 10px 0px;
-    padding: 0px 22px;
-    text-decoration: none;
-}
 
 h3 {
   font-size: 1.25rem;
