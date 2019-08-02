@@ -6,15 +6,15 @@
 > The assignment is to create a way for users to sign up to receive your client’s newsletter via email.The user profile, constraints, and user stories are based on extensive research.
 
 ## User profile
-Frequent visitor to client’s mobile site
-Knowledgeable and engaged in theindustry/topic represented by client
-Technically savvy, digital native
+* Frequent visitor to client’s mobile site
+* Knowledgeable and engaged in theindustry/topic represented by client
+* Technically savvy, digital native
 
 ## Constraints
-Mobile-first, responsive, browser-based site
-Must work in top 3 most commonly usedbrowsers: Chrome, Safari, Firefox
-Must be accessible: ​a11y checklist
-Do not worry about OS
+* Mobile-first, responsive, browser-based site
+* Must work in top 3 most commonly usedbrowsers: Chrome, Safari, Firefox
+* Must be accessible: ​a11y checklist
+* Do not worry about OS
 
 # Application
 [Deployed on Github](https://lawrencema415.github.io/CollabathonTechnologyNews/index.html)
